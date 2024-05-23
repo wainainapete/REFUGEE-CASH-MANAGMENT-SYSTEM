@@ -3,10 +3,6 @@ The Refugee Cash Management System (RCMS) supports three distinct user roles: Se
 ![Image](https://github.com/users/wainainapete/projects/3/assets/48982403/6dd750bc-31d1-4f1d-be1f-bf5df697385b)
 
 
-
-
-![Image](https://github.com/users/wainainapete/projects/3/assets/48982403/877c2f51-836f-43e3-a2dd-cce43e1623c4)
-
 The Senior Management Team has several key responsibilities within the Refugee Cash Management System (RCMS), including:
 
 Registering new users.
@@ -14,10 +10,9 @@ Adding cash into the system.
 Editing user accounts.
 Viewing cash summaries, including the amount of cash available.
 
+![Image](https://github.com/users/wainainapete/projects/3/assets/48982403/877c2f51-836f-43e3-a2dd-cce43e1623c4)
 
 
-
-![Image](https://github.com/users/wainainapete/projects/3/assets/48982403/28a84bb8-e21f-49ae-9d82-36535b2c2142)
 
 The Field Monitoring Officer in the Refugee Cash Management System (RCMS) has several important roles, including:
 
@@ -29,14 +24,19 @@ Viewing a refugee's status (Approved, Pending, or Rejected).
 Viewing the amount of money allocated to each refugee.
 
 
+![Image](https://github.com/users/wainainapete/projects/3/assets/48982403/28a84bb8-e21f-49ae-9d82-36535b2c2142)
 
-![Image](https://github.com/users/wainainapete/projects/3/assets/48982403/09f18358-fefb-4b33-83a6-a7c23d895904)
 
 The Supervisor role in the Refugee Cash Management System (RCMS) includes the following responsibilities:
 
 - Vetting refugee documents.
 - Changing the status of refugees (Pending, Approved, or Rejected).
 - Allocating cash to approved cases.
+
+
+
+![Image](https://github.com/users/wainainapete/projects/3/assets/48982403/09f18358-fefb-4b33-83a6-a7c23d895904)
+
 
 
 

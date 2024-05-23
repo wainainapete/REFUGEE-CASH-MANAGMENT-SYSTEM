@@ -1,7 +1,6 @@
-![Image](https://github.com/users/wainainapete/projects/3/assets/48982403/6dd750bc-31d1-4f1d-be1f-bf5df697385b)
-
 The Refugee Cash Management System (RCMS) supports three distinct user roles: Senior Management Team, Field Monitoring Officer, and Supervisor, each with unique responsibilities and access levels. Users are required to log in through a secure login platform to access the system, ensuring that each role can perform their specific functions while maintaining data security and integrity.
 
+![Image](https://github.com/users/wainainapete/projects/3/assets/48982403/6dd750bc-31d1-4f1d-be1f-bf5df697385b)
 
 
 
